@@ -1,7 +1,7 @@
 
 # Travel Salesman Problem using Ant Colony Optimization
-### shiva swaroop. v
-### sree charan. M
+### shiva swaroop. v(16CO252)
+### sri charan. M(16CO228)
 
 
 ## Instructions for TSP using ACO ==> Ant Colony Optimization.
