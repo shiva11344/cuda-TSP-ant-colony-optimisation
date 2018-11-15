@@ -6,9 +6,9 @@
 
 ## Instructions for TSP using ACO ==> Ant Colony Optimization.
 
-* For ACO , since it's a much smaller and simpler code , I just used 1 file each for parallel and CUDA version. I'm using an    open source map_generator (coded in ruby), that takes the number of cities as a parameter and builds a map.txt that contains a random city map with said N cities. 
+* For ACO , since it's a much smaller and simpler code , We just used 1 file each for parallel and CUDA version. we are using an    open source map_generator (coded in ruby), that takes the number of cities as a parameter and builds a map.txt that contains a random city map with said N cities. 
 Command to run the map generator : ruby map_generator.rb Num_of_cities
-* I have compiled and saved 3 different variants of maps for the ease of the grader to check my code. map25.txt , map50.txt , and map100.txt contains maps with 25,50,100 cities respectively.
+* We have compiled and saved 3 different variants of maps for the ease of the grader to check my code. map25.txt , map50.txt , and map100.txt contains maps with 25,50,100 cities respectively.
 
 * To run the sequential and parallel version of the code. 
  ### Just do a 'make'
